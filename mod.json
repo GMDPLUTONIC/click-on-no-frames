@@ -1,5 +1,5 @@
 {
-	"geode": "4.7.1",
+	"geode": "4.7.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -10,7 +10,7 @@
 	"name": "Click On No Frames",
 	"version": "v1.0.0",
 	"developer": "GMP",
-	"description": "Click without any frames",
+	"description": "Click on no frames",
 	"tags": ["joke", "gameplay"],
 	"settings": {
 		"enable": {
