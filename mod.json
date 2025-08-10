@@ -1,0 +1,23 @@
+{
+	"geode": "4.7.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "gmp.click_on_no_frames",
+	"name": "Click On No Frames",
+	"version": "v1.0.0",
+	"developer": "GMP",
+	"description": "Click without any frames",
+	"tags": ["joke", "gameplay"],
+	"settings": {
+		"enable": {
+			"type": "bool",
+			"default": true,
+			"name": "Enable",
+			"description": "Enables CONF"
+		}
+	}
+}
